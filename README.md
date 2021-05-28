@@ -30,6 +30,6 @@
   - 조영우: 데이터 전처리
 <br/>
 
-##### [프로젝트 문서화][doclink]
+##### [프로젝트 포스터][doclink]
 
 [doclink]: https://github.com/leedohyeong/Capstone-Design/blob/main/2020-%EC%A1%B0%EC%98%81%EC%9A%B0%2C%EC%9D%B4%EB%8F%84%ED%98%95%2C%EC%9D%B4%ED%98%84%EC%A4%80-%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf
